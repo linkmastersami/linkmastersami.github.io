@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.linkmastersami.twa",
+        "sha256_cert_fingerprints": ["A1:A4:C1:DD:4F:75:56:72:EA:BA:72:13:CC:7D:82:0F:16:97:77:D1:4B:A9:FC:D4:B9:D3:4E:F7:50:35:39:46"]
+      }
+    }]
