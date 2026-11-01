@@ -3,7 +3,7 @@
   "min": 2,
   "actual": 2
  },
- "actualizado": "2026-11-01T05:27:22.874Z",
+ "actualizado": "2026-11-01T05:53:40.879Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -34,8 +34,8 @@
    "nombre": "Batalla Galáctica",
    "desc": "Esquiva balas en 10 sectores del espacio",
    "orden": 4,
-   "v": 1,
-   "h": "ab34d4082d8b"
+   "v": 2,
+   "h": "1d6939fb496c"
   }
  ]
 }
