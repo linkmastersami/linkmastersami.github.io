@@ -3,7 +3,7 @@
   "min": 2,
   "actual": 2
  },
- "actualizado": "2026-11-01T05:04:35.150Z",
+ "actualizado": "2026-11-01T05:11:40.985Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -18,8 +18,8 @@
    "nombre": "Sobrevive la Noche",
    "desc": "10 noches contra hordas de zombis",
    "orden": 2,
-   "v": 4,
-   "h": "2b1ac23d2d2e"
+   "v": 5,
+   "h": "7edf460be33f"
   },
   {
    "id": "defiende-el-castillo",
