@@ -3,15 +3,15 @@
   "min": 2,
   "actual": 2
  },
- "actualizado": "2026-11-01T05:53:40.879Z",
+ "actualizado": "2026-11-01T07:00:06.620Z",
  "juegos": [
   {
    "id": "sube-o-llora",
    "nombre": "Sube o Llora",
    "desc": "Escala 800 m mientras el chat te tira",
    "orden": 1,
-   "v": 1,
-   "h": "9c1b4580daf4"
+   "v": 2,
+   "h": "0e4501325d88"
   },
   {
    "id": "sobrevive-la-noche",
