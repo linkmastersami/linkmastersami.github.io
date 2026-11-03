@@ -3,15 +3,15 @@
   "min": 3,
   "actual": 3
  },
- "actualizado": "2026-11-02T20:55:37.860Z",
+ "actualizado": "2026-11-03T00:39:45.771Z",
  "juegos": [
   {
    "id": "sube-o-llora",
    "nombre": "Sube o Llora",
    "desc": "Escala 800 m mientras el chat te tira",
    "orden": 1,
-   "v": 12,
-   "h": "e14a967b4b02"
+   "v": 13,
+   "h": "b33f731fce36"
   },
   {
    "id": "sobrevive-la-noche",
@@ -34,8 +34,8 @@
    "nombre": "Batalla Galáctica",
    "desc": "Esquiva balas en 10 sectores del espacio",
    "orden": 4,
-   "v": 12,
-   "h": "6086d97ce93b"
+   "v": 13,
+   "h": "2a6a6587035f"
   }
  ]
 }
