@@ -3,7 +3,7 @@
   "min": 3,
   "actual": 3
  },
- "actualizado": "2026-11-03T00:39:45.771Z",
+ "actualizado": "2026-11-03T01:43:13.437Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -18,8 +18,8 @@
    "nombre": "Sobrevive la Noche",
    "desc": "10 noches contra hordas de zombis",
    "orden": 2,
-   "v": 15,
-   "h": "8c18962baab1"
+   "v": 16,
+   "h": "74a9727bdf3b"
   },
   {
    "id": "defiende-el-castillo",
@@ -34,8 +34,8 @@
    "nombre": "Batalla Galáctica",
    "desc": "Esquiva balas en 10 sectores del espacio",
    "orden": 4,
-   "v": 13,
-   "h": "2a6a6587035f"
+   "v": 14,
+   "h": "5f0c1e9ad0c8"
   }
  ]
 }
