@@ -3,31 +3,31 @@
   "min": 5,
   "actual": 5
  },
- "actualizado": "2026-11-04T04:41:53.721Z",
+ "actualizado": "2026-11-04T05:35:51.230Z",
  "juegos": [
   {
    "id": "sube-o-llora",
    "nombre": "Sube o Llora",
    "desc": "Escala 800 m mientras el chat te tira",
    "orden": 1,
-   "v": 30,
-   "h": "21e3339f7658"
+   "v": 31,
+   "h": "4acfe6e702f6"
   },
   {
    "id": "sobrevive-la-noche",
    "nombre": "Sobrevive la Noche",
    "desc": "Noche tras noche contra hordas de zombis",
    "orden": 2,
-   "v": 33,
-   "h": "9a29cdf0b703"
+   "v": 34,
+   "h": "17b7716798d1"
   },
   {
    "id": "defiende-el-castillo",
    "nombre": "Defiende el Castillo",
    "desc": "Protege tu castillo con tu caballero",
    "orden": 3,
-   "v": 29,
-   "h": "2e4da352d35c"
+   "v": 30,
+   "h": "56bbdcf76da2"
   },
   {
    "id": "batalla-galactica",
