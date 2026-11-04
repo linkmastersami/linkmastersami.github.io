@@ -3,7 +3,7 @@
   "min": 5,
   "actual": 5
  },
- "actualizado": "2026-11-04T05:35:51.230Z",
+ "actualizado": "2026-11-04T05:44:30.315Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -26,8 +26,8 @@
    "nombre": "Defiende el Castillo",
    "desc": "Protege tu castillo con tu caballero",
    "orden": 3,
-   "v": 30,
-   "h": "56bbdcf76da2"
+   "v": 31,
+   "h": "9972c039e755"
   },
   {
    "id": "batalla-galactica",
