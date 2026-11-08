@@ -3,7 +3,7 @@
   "min": 5,
   "actual": 5
  },
- "actualizado": "2026-11-08T04:02:40.345Z",
+ "actualizado": "2026-11-08T04:30:24.612Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -32,10 +32,10 @@
   {
    "id": "batalla-galactica",
    "nombre": "Batalla Galáctica",
-   "desc": "Esquiva balas sector tras sector en el espacio",
+   "desc": "Esquiva balas sector tras sector e invita a un segundo jugador con un enlace",
    "orden": 4,
-   "v": 33,
-   "h": "abef2faccb88"
+   "v": 34,
+   "h": "a156a6d571ea"
   },
   {
    "id": "invasion-espacial-3d",
