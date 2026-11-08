@@ -3,7 +3,7 @@
   "min": 5,
   "actual": 5
  },
- "actualizado": "2026-11-05T14:35:47.207Z",
+ "actualizado": "2026-11-08T04:02:40.345Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -42,8 +42,8 @@
    "nombre": "Invasión Espacial 3D",
    "desc": "Salva la galaxia e invita a un segundo jugador con un enlace",
    "orden": 5,
-   "v": 1,
-   "h": "bb51ef3d9bff",
+   "v": 2,
+   "h": "44a0c2d683f7",
    "nuevo": "2026-11-30"
   }
  ]
