@@ -3,7 +3,7 @@
   "min": 5,
   "actual": 5
  },
- "actualizado": "2026-11-12T20:47:06.224Z",
+ "actualizado": "2026-11-12T22:49:44.385Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -53,6 +53,15 @@
    "orden": 6,
    "v": 3,
    "h": "e60d83518744",
+   "nuevo": "2026-12-12"
+  },
+  {
+   "id": "tesoro-hundido",
+   "nombre": "Tesoro Hundido",
+   "desc": "Baja al fondo del mar por el cofre y regrésalo al bote antes de que se acabe el aire",
+   "orden": 7,
+   "v": 1,
+   "h": "60ccd440b4a4",
    "nuevo": "2026-12-12"
   }
  ]
