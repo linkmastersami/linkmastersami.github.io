@@ -3,7 +3,7 @@
   "min": 5,
   "actual": 5
  },
- "actualizado": "2026-11-12T17:02:26.592Z",
+ "actualizado": "2026-11-12T20:47:06.224Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -51,8 +51,8 @@
    "nombre": "No Despiertes a la Abuela",
    "desc": "Junta tus cosas sin despertarla e invita hasta 2 jugadores con un enlace",
    "orden": 6,
-   "v": 2,
-   "h": "34e7efd71605",
+   "v": 3,
+   "h": "e60d83518744",
    "nuevo": "2026-12-12"
   }
  ]
