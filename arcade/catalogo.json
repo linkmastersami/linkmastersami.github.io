@@ -3,47 +3,47 @@
   "min": 5,
   "actual": 5
  },
- "actualizado": "2026-11-12T04:14:48.806Z",
+ "actualizado": "2026-11-12T05:15:28.370Z",
  "juegos": [
   {
    "id": "sube-o-llora",
    "nombre": "Sube o Llora",
    "desc": "Escala 800 m mientras el chat te tira",
    "orden": 1,
-   "v": 31,
-   "h": "4acfe6e702f6"
+   "v": 32,
+   "h": "192f273dec2d"
   },
   {
    "id": "sobrevive-la-noche",
    "nombre": "Sobrevive la Noche",
    "desc": "Noche tras noche contra hordas de zombis",
    "orden": 2,
-   "v": 34,
-   "h": "17b7716798d1"
+   "v": 35,
+   "h": "8958c2d8d301"
   },
   {
    "id": "defiende-el-castillo",
    "nombre": "Defiende el Castillo",
    "desc": "Protege tu castillo con tu caballero",
    "orden": 3,
-   "v": 31,
-   "h": "9972c039e755"
+   "v": 32,
+   "h": "466dce8a00e0"
   },
   {
    "id": "batalla-galactica",
    "nombre": "Batalla Galáctica",
    "desc": "Esquiva balas sector tras sector e invita a un segundo jugador con un enlace",
    "orden": 4,
-   "v": 37,
-   "h": "b29264fbe280"
+   "v": 38,
+   "h": "cd87af5be1e7"
   },
   {
    "id": "invasion-espacial-3d",
    "nombre": "Invasión Espacial 3D",
    "desc": "Salva la galaxia e invita a un segundo jugador con un enlace",
    "orden": 5,
-   "v": 4,
-   "h": "0d1dc46882cc",
+   "v": 5,
+   "h": "d39da666a087",
    "nuevo": "2026-11-30"
   }
  ]
