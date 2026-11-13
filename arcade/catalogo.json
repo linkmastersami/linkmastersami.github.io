@@ -3,7 +3,7 @@
   "min": 5,
   "actual": 5
  },
- "actualizado": "2026-11-12T22:49:44.385Z",
+ "actualizado": "2026-11-13T13:54:56.441Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -51,8 +51,8 @@
    "nombre": "No Despiertes a la Abuela",
    "desc": "Junta tus cosas sin despertarla e invita hasta 2 jugadores con un enlace",
    "orden": 6,
-   "v": 3,
-   "h": "e60d83518744",
+   "v": 4,
+   "h": "7c74f3f51246",
    "nuevo": "2026-12-12"
   },
   {
@@ -60,9 +60,18 @@
    "nombre": "Tesoro Hundido",
    "desc": "Baja al fondo del mar por el cofre y regrésalo al bote antes de que se acabe el aire",
    "orden": 7,
-   "v": 1,
-   "h": "60ccd440b4a4",
+   "v": 2,
+   "h": "96da830bd8be",
    "nuevo": "2026-12-12"
+  },
+  {
+   "id": "dulce-caos",
+   "nombre": "Dulce Caos",
+   "desc": "Derrota al Glotón con los dulces que te pide mientras el chat te ayuda o te sabotea",
+   "orden": 8,
+   "v": 1,
+   "h": "4a1a4791682c",
+   "nuevo": "2026-12-13"
   }
  ]
 }
