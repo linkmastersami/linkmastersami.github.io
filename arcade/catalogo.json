@@ -3,7 +3,7 @@
   "min": 6,
   "actual": 6
  },
- "actualizado": "2026-11-14T01:27:10.843Z",
+ "actualizado": "2026-11-14T14:24:48.163Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -34,8 +34,8 @@
    "nombre": "Batalla Galáctica",
    "desc": "Esquiva balas sector tras sector e invita a un segundo jugador con un enlace",
    "orden": 4,
-   "v": 38,
-   "h": "cd87af5be1e7"
+   "v": 39,
+   "h": "54aeedb84833"
   },
   {
    "id": "invasion-espacial-3d",
@@ -51,8 +51,8 @@
    "nombre": "No Despiertes a la Abuela",
    "desc": "Junta tus cosas sin despertarla e invita hasta 2 jugadores con un enlace",
    "orden": 6,
-   "v": 5,
-   "h": "931167b77004",
+   "v": 6,
+   "h": "ae61ff4ecd8b",
    "nuevo": "2026-12-12"
   },
   {
