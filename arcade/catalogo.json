@@ -1,33 +1,33 @@
 {
  "lanzador": {
-  "min": 5,
-  "actual": 5
+  "min": 6,
+  "actual": 6
  },
- "actualizado": "2026-11-13T13:54:56.441Z",
+ "actualizado": "2026-11-14T01:27:10.843Z",
  "juegos": [
   {
    "id": "sube-o-llora",
    "nombre": "Sube o Llora",
    "desc": "Escala 800 m mientras el chat te tira",
    "orden": 1,
-   "v": 32,
-   "h": "192f273dec2d"
+   "v": 33,
+   "h": "c0067a16c10a"
   },
   {
    "id": "sobrevive-la-noche",
    "nombre": "Sobrevive la Noche",
    "desc": "Noche tras noche contra hordas de zombis",
    "orden": 2,
-   "v": 35,
-   "h": "8958c2d8d301"
+   "v": 36,
+   "h": "b2361e65d1df"
   },
   {
    "id": "defiende-el-castillo",
    "nombre": "Defiende el Castillo",
    "desc": "Protege tu castillo con tu caballero",
    "orden": 3,
-   "v": 32,
-   "h": "466dce8a00e0"
+   "v": 33,
+   "h": "e7a09ca5ea5a"
   },
   {
    "id": "batalla-galactica",
@@ -42,8 +42,8 @@
    "nombre": "Invasión Espacial 3D",
    "desc": "Salva la galaxia e invita a un segundo jugador con un enlace",
    "orden": 5,
-   "v": 5,
-   "h": "d39da666a087",
+   "v": 6,
+   "h": "ab3383052b10",
    "nuevo": "2026-11-30"
   },
   {
@@ -51,8 +51,8 @@
    "nombre": "No Despiertes a la Abuela",
    "desc": "Junta tus cosas sin despertarla e invita hasta 2 jugadores con un enlace",
    "orden": 6,
-   "v": 4,
-   "h": "7c74f3f51246",
+   "v": 5,
+   "h": "931167b77004",
    "nuevo": "2026-12-12"
   },
   {
@@ -60,8 +60,8 @@
    "nombre": "Tesoro Hundido",
    "desc": "Baja al fondo del mar por el cofre y regrésalo al bote antes de que se acabe el aire",
    "orden": 7,
-   "v": 2,
-   "h": "96da830bd8be",
+   "v": 3,
+   "h": "77aae909d257",
    "nuevo": "2026-12-12"
   },
   {
@@ -69,8 +69,8 @@
    "nombre": "Dulce Caos",
    "desc": "Derrota al Glotón con los dulces que te pide mientras el chat te ayuda o te sabotea",
    "orden": 8,
-   "v": 1,
-   "h": "4a1a4791682c",
+   "v": 2,
+   "h": "5a989ef71daa",
    "nuevo": "2026-12-13"
   }
  ]
