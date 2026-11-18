@@ -3,47 +3,47 @@
   "min": 6,
   "actual": 6
  },
- "actualizado": "2026-11-18T14:35:44.017Z",
+ "actualizado": "2026-11-18T14:47:40.228Z",
  "juegos": [
   {
    "id": "sube-o-llora",
    "nombre": "Sube o Llora",
    "desc": "Escala 800 m mientras el chat te tira",
    "orden": 1,
-   "v": 34,
-   "h": "71e13e430e09"
+   "v": 35,
+   "h": "36e1b074064d"
   },
   {
    "id": "sobrevive-la-noche",
    "nombre": "Sobrevive la Noche",
    "desc": "Noche tras noche contra hordas de zombis",
    "orden": 2,
-   "v": 37,
-   "h": "2de3edfe7c7a"
+   "v": 38,
+   "h": "e4109212d882"
   },
   {
    "id": "defiende-el-castillo",
    "nombre": "Defiende el Castillo",
    "desc": "Protege tu castillo con tu caballero",
    "orden": 3,
-   "v": 34,
-   "h": "d3c4ff4f00e9"
+   "v": 35,
+   "h": "8a24917e8c87"
   },
   {
    "id": "batalla-galactica",
    "nombre": "Batalla Galáctica",
    "desc": "Esquiva balas sector tras sector e invita a un segundo jugador con un enlace",
    "orden": 4,
-   "v": 40,
-   "h": "04f94318cb1b"
+   "v": 41,
+   "h": "b5a1fc5757f7"
   },
   {
    "id": "invasion-espacial-3d",
    "nombre": "Invasión Espacial 3D",
    "desc": "Salva la galaxia e invita a un segundo jugador con un enlace",
    "orden": 5,
-   "v": 7,
-   "h": "9de5afbd164c",
+   "v": 8,
+   "h": "2adbd29f526c",
    "nuevo": "2026-11-30"
   },
   {
@@ -51,8 +51,8 @@
    "nombre": "No Despiertes a la Abuela",
    "desc": "Junta tus cosas sin despertarla e invita hasta 2 jugadores con un enlace",
    "orden": 6,
-   "v": 7,
-   "h": "78b47605b929",
+   "v": 8,
+   "h": "7cba28eaf6c6",
    "nuevo": "2026-12-12"
   },
   {
@@ -60,8 +60,8 @@
    "nombre": "Tesoro Hundido",
    "desc": "Baja al fondo del mar por el cofre y regrésalo al bote antes de que se acabe el aire",
    "orden": 7,
-   "v": 4,
-   "h": "4a2d84a33a28",
+   "v": 5,
+   "h": "4e30a71d00c2",
    "nuevo": "2026-12-12"
   },
   {
@@ -69,8 +69,8 @@
    "nombre": "Dulce Caos",
    "desc": "Derrota al Glotón con los dulces que te pide mientras el chat te ayuda o te sabotea",
    "orden": 8,
-   "v": 3,
-   "h": "0523740d0ae6",
+   "v": 4,
+   "h": "d15b7ea940eb",
    "nuevo": "2026-12-13"
   }
  ]
