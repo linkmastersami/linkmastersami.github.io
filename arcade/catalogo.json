@@ -3,7 +3,7 @@
   "min": 6,
   "actual": 6
  },
- "actualizado": "2026-11-21T14:22:49.336Z",
+ "actualizado": "2026-11-23T02:57:50.497Z",
  "juegos": [
   {
    "id": "sube-o-llora",
@@ -78,8 +78,8 @@
    "nombre": "Eternidad 3:33",
    "desc": "Rompe los 5 sellos y vence al Relojero; invita hasta 2 jugadores con un enlace",
    "orden": 9,
-   "v": 2,
-   "h": "44c41cb2120c",
+   "v": 3,
+   "h": "4f1718c2f392",
    "nuevo": "2026-12-21"
   }
  ]
